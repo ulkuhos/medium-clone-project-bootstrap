@@ -1,0 +1,54 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow {
+    background-color: #FFC017
+    ;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid #242424
+    ;
+}
+.img-medium {
+    width: 450px;
+    height: auto;
+}
+
+.medium-logo {
+        width: 30px;
+        height: 25px;
+        
+    }
+
+.pic-profile {
+    width: 25px;
+    height: 25px;
+}
+.btn-color {
+    background-color: #F2F2F2;
+    padding: 8px 16px;
+    line-height: 20px;
+    border-radius: 100px;
+    font-size: 15px;
+    color: black;
+}
+.btn-design {
+    background-color: #F2F2F2;
+    padding: 4px 16px;
+    line-height: 15px;
+    border-radius: 100px;
+    font-size: 13px;
+}
+.aside-buttons > li {
+    margin-bottom: 6px;
+}
+.content-img {
+    width: 250;
+    height: 200;
+}
+.border-top-dark {
+    border-top: 1px solid #F2F2F2;
+}
+
